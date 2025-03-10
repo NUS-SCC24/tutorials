@@ -1,0 +1,6 @@
+mm-omp
+mm-seq
+hello-omp
+omp-schedule
+omp-sections
+omp-sync
